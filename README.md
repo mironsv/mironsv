@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mironsv
+- 👀 I’m interested in Java, Python, AI/ML
+- 🌱 I’m currently learning Spring, Python, AI/ML
+- 💞️ I’m looking to collaborate on AI/ML
+- 📫 How to reach me: Telegram @mironsv, email: mironsv@mail.ru
