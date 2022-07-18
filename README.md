@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mironsv
-- 👀 I’m interested in Java, Python, AI/ML
-- 🌱 I’m currently learning Spring, Python, AI/ML
-- 💞️ I’m looking to collaborate on AI/ML
+- 👀 I’m interested in Java, Python, Blockchain
+- 🌱 I’m currently learning Spring, Python, Blockchain
+- 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me: Telegram @mironsv, email: mironsv@mail.ru
