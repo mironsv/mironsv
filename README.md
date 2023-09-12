@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mironsv
-- 👀 I’m interested in Java, Python, Blockchain, NodeJS
-- 🌱 I’m currently learning NodeJS, Python, Blockchain
+- 👀 I’m interested in Java, Python, Blockchain, DeFi
+- 🌱 I’m currently learning Blockchain and DEX
 - 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me: Telegram @mironsv, email: mironsv@mail.ru
