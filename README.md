@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mironsv
 - 👀 I’m interested in Java, Python, Blockchain, DeFi
-- 🌱 I’m currently learning Blockchain and DEX
-- 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me: Telegram @mironsv, email: mironsv@mail.ru
+- 💞️ I’m looking to collaborate on FinTech, Blockchain, BigData analysis
+- 📫 How to reach me: Telegram @mironsv, email: 3603210@gmail.com
